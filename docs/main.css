@@ -6,10 +6,6 @@
 p {
     font-family: Roboto;
 }
-
-body {
-    background-color: white;
-  }
   
 h1, h2, h3, p {
     text-align: center;
@@ -56,3 +52,7 @@ h1, h2, h3, p {
   background-color: rgb(0,0,0); /* black is the fallback color (hey, that rhymed!) */
   background-color: rgba(0,0,0,0.4); /* black except its not black because its slightly clear. */
 }
+
+body {
+    background-color: white;
+  }
