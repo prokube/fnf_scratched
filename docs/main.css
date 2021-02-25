@@ -1,9 +1,10 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins:200,400,600,800|Roboto:200,400,600,800");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 * {
 font-family: Poppins;
 }
 p {
-font-family: Roboto;
+font-family: Open Sans;
 }
 
 body {
