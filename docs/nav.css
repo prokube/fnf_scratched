@@ -7,7 +7,12 @@ footer {
     width: 100%;
     text-align: center;
 }
-  
+
+footer p {
+    background-color: gray;
+}
+
+
 nav {
   overflow: hidden;
   left: 0;
