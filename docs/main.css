@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 * {
     font-family: Poppins;
+    background-color: white;
 }
 p {
     font-family: Roboto;
