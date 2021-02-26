@@ -11,14 +11,6 @@ footer {
 footer p {
     background-color: gray;
 }
-nav ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  top: 0;
-  width: 100%;
-  background-color: gray;
-}
 
 nav li {
     float: left;
@@ -43,4 +35,13 @@ nav {
 
 nav li a:hover {
     background-color: black;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  top: 0;
+  width: 100%;
+  background-color: gray;
 }
