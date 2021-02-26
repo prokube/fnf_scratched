@@ -56,3 +56,9 @@ h1, h2, h3, p {
 body {
     background-color: white;
   }
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
