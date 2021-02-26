@@ -24,7 +24,7 @@ nav li {
     float: left;
 }
 
-nav li a, .nav {
+nav li a {
     display: block;
     color: black;
     text-align: center;
