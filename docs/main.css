@@ -57,7 +57,7 @@ body {
     background-color: white;
   }
 
-* .darkmode {
+body .darkmode {
   background-color: black;
   color: white;
 }
