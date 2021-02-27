@@ -5,3 +5,5 @@ i don't wanna repeat information so the basics are at https://prokube.github.io/
 
 btw this isn't in the Expected State sorry scratchers :( im trying lol
 (but i did get the latest project copy inserted so yeah)
+
+i love how this already has more than twice the commits CollabOS does
