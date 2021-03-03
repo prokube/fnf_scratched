@@ -1,11 +1,13 @@
 ---
 name: Bug Report
-about: Submit a report to help us improve the thing
+about: Submit a report to help us improve this project.
 title: 'Bug Report: '
 labels: bug
 assignees: ''
 
 ---
+
+**please use this template and don't just answer the questions as a comment**
 
 **Describe the bug**
 A clear and concise description of what the bug is.
