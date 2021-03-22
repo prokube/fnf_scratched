@@ -7,6 +7,7 @@ Legend:
 Sprite Names: [
 
 ?: Old version of a sprite, most likely kept so that code runs
+
 !: LMAO SOMETHING BROKE
 
 ]
