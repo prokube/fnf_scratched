@@ -9,8 +9,7 @@ Track loading and displaying notes [X]
 Counting steps and relaying data to Notes.sprite3 [O]
 
 MEDIUM PRIORITIES:
-uhh
+none
 
 LOW PRIORITIES:
-
-Syncing Animations to the tempo of the chart (damn you screen refresh i can't see the frames)
+none
